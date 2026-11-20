@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
+Thumbs.db
+.env
+.env.*
+auth.json
+.codex-global-state.json*
+state*.sqlite*
+*.log
+*-snapshot.json
+*-plan.json
+snapshots/
+plans/
+local-data/
+work/

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex 项目备份与恢复"
+  short_description: "自动识别本机环境与动态项目记录，跨电脑生成备份和安全恢复计划"
+  default_prompt: "使用 $codex-project-recovery 识别这台电脑的实际项目记录和备份，保留已有新项目，恢复缺失配置并验证结果。"
